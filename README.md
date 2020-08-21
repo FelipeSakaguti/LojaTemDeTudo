@@ -8,30 +8,30 @@ Projeto para seleção IBM.
 
 #### FrontEnd - ReactJS
 
-Context API com Hooks
+Context API com Hooks  
 
-Axios
+Axios  
 
-Material UI
+Material UI  
 
-PrimeReact
+PrimeReact  
 
 
 #### BackEnd - NodeJS
 
-Express
+Express  
 
-SQLite
+SQLite  
 
-Knex
+Knex  
 
 
 ## Links GitHub
 
-[BackEnd](https://github.com/FelipeSakaguti/BackTemDeTudo)
+[BackEnd](https://github.com/FelipeSakaguti/BackTemDeTudo)  
 
 
-[FrontEnd](https://github.com/FelipeSakaguti/FrontTemDeTudo)
+[FrontEnd](https://github.com/FelipeSakaguti/FrontTemDeTudo)  
 
 
 ## Demo
@@ -85,6 +85,6 @@ npm run start
 
 ## Organização de Tarefas
 
-[BackEnd](https://github.com/FelipeSakaguti/LojaTemDeTudo/blob/master/Tarefas%20BackEnd.md)
-
+[BackEnd](https://github.com/FelipeSakaguti/LojaTemDeTudo/blob/master/Tarefas%20BackEnd.md)  
+  
 [FrontEnd](https://github.com/FelipeSakaguti/LojaTemDeTudo/blob/master/Tarefas%20FrontEnd.md)
