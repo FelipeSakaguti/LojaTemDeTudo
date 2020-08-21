@@ -5,13 +5,16 @@ Projeto para seleção IBM.
 
 
 ## Tecnologias
-###FrontEnd - ReactJS
+
+#### FrontEnd - ReactJS
+
 Context API com Hooks
 Axios
 Material UI
 PrimeReact
 
-###BackEnd - NodeJS
+#### BackEnd - NodeJS
+
 Express
 SQLite
 Knex
@@ -29,8 +32,10 @@ Knex
 
 ## Instalação
 
-###Backend
+#### BackEnd
+
 Para realizar a instalação, você deverá baixar o zip da aplicação ou clonar usando o comando
+
 ```
 git clone https://github.com/FelipeSakaguti/BackTemDeTudo
 ```
@@ -49,7 +54,8 @@ Para iniciar, rode o comando:
 npm run start
 ```
 
-###FrontEnd
+#### FrontEnd
+
 Comece clonando a aplicação com o comando
 ```
 git clone https://github.com/FelipeSakaguti/FrontTemDeTudo
